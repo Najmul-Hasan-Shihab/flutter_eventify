@@ -127,16 +127,16 @@ University students in Bangladesh interested in:
 
 ## Installation
 
-# Clone the repository
+- Clone the repository
 git clone https://github.com/yourusername/eventify.git
 
-# Navigate to project directory
+- Navigate to project directory
 cd eventify
 
-# Install dependencies
+- Install dependencies
 flutter pub get
 
-# Run the app
+- Run the app
 flutter run
 
 ## Contributing
